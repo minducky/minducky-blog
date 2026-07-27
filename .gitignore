@@ -1,0 +1,7 @@
+# JetBrains
+.idea/
+
+# Hugo
+public/
+resources/
+.hugo_build.lock

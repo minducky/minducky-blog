@@ -1,0 +1,16 @@
+baseURL = "https://minducky.github.io/myblog/"
+languageCode = "ko-kr"
+title = "민덕키 블로그"
+theme = ""
+enableRobotsTXT = true
+
+[params]
+  description = "개인 기록용 블로그"
+  author = "minducky"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.highlight]
+  style = "monokai"
+  lineNos = false

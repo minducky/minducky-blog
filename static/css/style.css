@@ -1,0 +1,107 @@
+/* 폰트: 시스템 기본 폰트 사용 (외부 요청 없음, 가장 가볍고 빠름) */
+/* 한글 웹폰트를 쓰고 싶으면 아래 주석을 풀고 font-family 목록 맨 앞에 폰트 이름 추가하면 됨.
+   예: Pretendard (무료 한글 폰트) - https://github.com/orioncactus/pretendard
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css");
+*/
+
+:root {
+  --max-width: 680px;
+  --text-color: #222;
+  --bg-color: #fff;
+  --muted-color: #888;
+  --link-color: #1a5fb4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0 20px;
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+    "Malgun Gothic", sans-serif;
+  color: var(--text-color);
+  background: var(--bg-color);
+  line-height: 1.7;
+  font-size: 17px;
+}
+
+.site-header {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 40px 0 20px;
+}
+
+.site-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+.content {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding-bottom: 60px;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 12px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.post-item a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-size: 1.05rem;
+}
+
+.post-item a:hover {
+  color: var(--link-color);
+}
+
+.post-item time {
+  color: var(--muted-color);
+  font-size: 0.85rem;
+  white-space: nowrap;
+  margin-left: 16px;
+}
+
+.post h1 {
+  margin-bottom: 4px;
+}
+
+.post > time {
+  color: var(--muted-color);
+  font-size: 0.9rem;
+}
+
+.post-body {
+  margin-top: 24px;
+}
+
+.post-body p {
+  margin: 1em 0;
+}
+
+.post-body img {
+  max-width: 100%;
+}
+
+.site-footer {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 20px 0 60px;
+  color: var(--muted-color);
+  font-size: 0.85rem;
+  border-top: 1px solid #eee;
+}
