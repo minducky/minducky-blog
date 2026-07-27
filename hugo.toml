@@ -1,7 +1,6 @@
 baseURL = "https://minducky.github.io/myblog/"
 languageCode = "ko-kr"
 title = "민덕키 블로그"
-theme = ""
 enableRobotsTXT = true
 
 [params]
