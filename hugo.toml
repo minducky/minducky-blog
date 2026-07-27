@@ -1,10 +1,10 @@
 baseURL = "https://minducky.github.io/myblog/"
 languageCode = "ko-kr"
-title = "민덕키 블로그"
+title = "민덕기록"
 enableRobotsTXT = true
 
 [params]
-  description = "개인 기록용 블로그"
+  description = "본인을 기록하기 위해 만든 블로그입니다"
   author = "minducky"
 
 [markup.goldmark.renderer]
