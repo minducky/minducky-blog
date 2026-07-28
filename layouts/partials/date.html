@@ -1,0 +1,1 @@
+{{ $ampm := "오전" }}{{ if eq (.Format "PM") "PM" }}{{ $ampm = "오후" }}{{ end }}{{ .Format "2006.01.02" }} {{ $ampm }} {{ .Format "03:04" }}
