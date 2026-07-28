@@ -3,7 +3,7 @@
   {{ range (where .Site.RegularPages "Type" "posts") }}
   <li class="post-item">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <time>{{ .Date.Format "2006-01-02" }}</time>
+    <time>{{ partial "date.html" .Date }}</time>
   </li>
   {{ end }}
 </ul>
