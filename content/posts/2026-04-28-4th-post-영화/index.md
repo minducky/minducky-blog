@@ -46,7 +46,7 @@ draft: false
 태초부터 알고 있던 듯한 알쏭달쏭한 것들이 표현되어 있는 영화라고 느꼈습니다.
 
 <figure>
-  <img src="4th_post_picture_evevall_poster.jpg.jpg" alt="Everything Everywhere All at Once">
+  <img src="4th_post_picture_evevall_poster.jpg" alt="Everything Everywhere All at Once">
   <figcaption>&lt;Everything Everywhere All at Once&gt;<br>
 [https://i.pinimg.com/736x/36/bf/bc/36bfbca79538b35e9972e4f9f0020ac2.jpg]</figcaption>
 </figure>
