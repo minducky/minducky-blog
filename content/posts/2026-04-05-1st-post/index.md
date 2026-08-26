@@ -1,6 +1,6 @@
 ---
 title: "이유"
-date: 2026-07-27T00:12:00+09:00
+date: 2026-04-05T00:12:00+09:00
 draft: false
 ---
 
@@ -25,3 +25,7 @@ draft: false
 
 무엇을 적을지는 사실 크게 구상은 안했습니다.
 
+<figure>
+  <img src="1st_post_picture.jpeg" alt="집에서 보는 창밖 풍경">
+  <figcaption>제가 집에서 매일 보는 창밖 풍경입니다.</figcaption>
+</figure>
