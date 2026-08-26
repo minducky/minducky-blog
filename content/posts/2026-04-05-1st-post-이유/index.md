@@ -26,6 +26,6 @@ draft: false
 무엇을 적을지는 사실 크게 구상은 안했습니다.
 
 <figure>
-  <img src="1st_post_picture.jpeg" alt="집에서 보는 창밖 풍경">
+  <img src="1st_post_picture_1_창밖.jpeg" alt="집에서 보는 창밖 풍경">
   <figcaption>제가 집에서 매일 보는 창밖 풍경입니다.</figcaption>
 </figure>
