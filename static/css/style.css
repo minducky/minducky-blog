@@ -15,6 +15,14 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "BookkGothic";
+  src: url("../fonts/Bookk Font/부크크고딕/BookkGothic_Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --max-width: 680px;
   --text-color: #222;
@@ -50,6 +58,11 @@ body {
   font-weight: 700;
   color: var(--text-color);
   text-decoration: none;
+}
+
+.site-title--short {
+  font-family: "BookkGothic", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+    "Malgun Gothic", sans-serif;
 }
 
 .content {
@@ -100,10 +113,11 @@ body {
 
 .post-body {
   margin-top: 24px;
+  font-size: 15px;
 }
 
 .post-body p {
-  margin: 1em 0;
+  margin: 1lh 0;
 }
 
 .post-body img {
@@ -124,7 +138,7 @@ body {
 .post-body figcaption {
   margin-top: 8px;
   color: var(--muted-color);
-  font-size: 0.6em;
+  font-size: 12.2px;
   text-align: center;
 }
 

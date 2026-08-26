@@ -9,6 +9,7 @@ enableRobotsTXT = true
 
 [markup.goldmark.renderer]
   unsafe = true
+  hardWraps = true
 
 [markup.highlight]
   style = "monokai"
