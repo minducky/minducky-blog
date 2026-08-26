@@ -1,3 +1,7 @@
-# myblog
+# minducky-blog
 
-한글 블로그. `minducky.github.io/myblog`
+Korean Blog
+
+한국 블로그
+
+[This is my link](https://minducky.github.io/minducky-blog/)
