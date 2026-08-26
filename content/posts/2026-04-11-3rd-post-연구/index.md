@@ -15,15 +15,15 @@ draft: false
 
 제가 하는 연구는 AI를, 소리에 있어서 최고의 성능을 자랑하는 사람과, 더 닮게 만드는 연구입니다.
 
-청각계 (Auditory System) 는 크게 두 부분으로
-(1) 귀부터 시작해서 외이, 중이, 달팽이관까지의 주변부와
-(2) 뇌 속의 중추신경계로 구성되는데
+청각계 (Auditory System) 는 크게 두 부분으로,
+귀부터 시작해서 외이, 중이, 달팽이관까지의 주변부와
+뇌 속의 중추신경계로 구성되는데
 저는 이 청각계의 각 단계를 AI 속에 모방하는 작업을 하고 있습니다.
 
 즉,
-1. 소리를 이해하는 청각계 (Auditory system / Bio) 에서
-2. 영감을 받아 (Inspired)
-3. AI 모델 (AI models / Auditory Models) 을 구축하는 연구입니다.
+(1) 소리를 이해하는 청각계 (Auditory system / Bio) 에서 
+(2)영감을 받아 (Inspired)
+(3)AI 모델 (AI models / Auditory Models) 을 구축하는 연구입니다.
 그래서 제 연구 프로젝트가 'Bio-inspired Auditory Models' 입니다.
 
 이를 통해, AI가 더 효율적/효과적으로 소리를 이해하도록 하는 것이 연구목적입니다.
