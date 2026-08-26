@@ -1,15 +1,15 @@
-/* 폰트: 부크크고딕 (static/fonts/Bookk Font 에 있는 로컬 폰트 파일 사용) */
+/* 폰트: 부크크명조 (static/fonts/Bookk Font 에 있는 로컬 폰트 파일 사용) */
 @font-face {
-  font-family: "BookkGothic";
-  src: url("../fonts/Bookk Font/부크크고딕/BookkGothic_Light.ttf") format("truetype");
+  font-family: "BookkMyungjo";
+  src: url("../fonts/Bookk Font/부크크명조/BookkMyungjo_Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "BookkGothic";
-  src: url("../fonts/Bookk Font/부크크고딕/BookkGothic_Bold.ttf") format("truetype");
+  font-family: "BookkMyungjo";
+  src: url("../fonts/Bookk Font/부크크명조/BookkMyungjo_Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -30,8 +30,8 @@
 body {
   margin: 0;
   padding: 0 20px;
-  font-family: "BookkGothic", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
-    "Malgun Gothic", sans-serif;
+  font-family: "BookkMyungjo", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+    "Malgun Gothic", serif;
   font-weight: 300;
   color: var(--text-color);
   background: var(--bg-color);
