@@ -29,9 +29,8 @@ draft: false
 나무를 심는 사람 중 무엇이 더 아름다운지.
 
 <figure>
-  <img src="9th_post_picture_paintings.png" alt="Paintings">
+  <img src="9th_post_picture_painting.jpeg" alt="Paintings">
 </figure>
-움
 ---
 
 요즘 찾기 어려운 것들이 있습니다.
