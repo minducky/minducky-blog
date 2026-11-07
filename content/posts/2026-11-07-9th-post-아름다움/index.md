@@ -31,6 +31,7 @@ draft: false
 <figure>
   <img src="9th_post_picture_painting.jpeg" alt="Paintings">
 </figure>
+
 ---
 
 요즘 찾기 어려운 것들이 있습니다.
